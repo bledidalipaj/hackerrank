@@ -33,10 +33,9 @@
 # A list on a single line containing the cubes of the first N fibonacci numbers.
 
 # Sample Input
-
 # 5
-# Sample Output
 
+# Sample Output
 # [0, 1, 1, 8, 27]
 
 n = int(raw_input().strip())

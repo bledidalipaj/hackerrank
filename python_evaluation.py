@@ -31,7 +31,6 @@
 
 # print(2 + 3)
 # Sample Output
-
 # 5
 
 # Problem's link: https://www.hackerrank.com/challenges/python-eval #

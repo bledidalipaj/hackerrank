@@ -1,4 +1,4 @@
-# This challenge is only forPython 2.
+# This challenge is only for Python 2.
 
 # input()
 

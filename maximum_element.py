@@ -6,7 +6,8 @@
 	3    -Print the maximum element in the stack.
 	Input Format
 
-	The first line of input contains an integer, N. The next N lines each contain an above mentioned query. (It is guaranteed that each query is valid.)
+	The first line of input contains an integer, N. The next N lines each contain an above mentioned query. (It is guaranteed that 
+	each query is valid.)
 
 	Constraints 
 	1 <= N <= 10 ^ 5
@@ -36,6 +37,8 @@
 
 	26
 	91
+
+	Problem's link: https://www.hackerrank.com/challenges/maximum-element
 """
 
 N = int(raw_input().strip())
@@ -55,8 +58,8 @@ class Stack(object):
     def is_empty(self):
         return self.size == 0
 
-stack = Stack()									# each entry in the stack will store two values, current number and current max
-												# this way we will obtain the max value in the stack in O(1) time
+stack = Stack()                     # each entry in the stack will store two values, current number and current max
+                                    # this way we will obtain the max value in the stack in O(1) time
 max_val = 0
 
 for i in range(N):

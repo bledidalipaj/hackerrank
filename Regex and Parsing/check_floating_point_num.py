@@ -80,7 +80,7 @@ Explanation
 +4.54: is valid.
 SomeRandomStuff: is not a number.
 
-Problem's link: https://www.hackerrank.com/challenges/introduction-to-regex/submissions/code/22829812
+Problem's link: https://www.hackerrank.com/challenges/introduction-to-regex/
 
 """
 
